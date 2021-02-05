@@ -2,10 +2,10 @@
 ### Выполнила: Alisa Trey
 
 ## Technologies: 
--html
--css
--(Bootstrap)
--js 
--(JQuery)
--(Fancybox)
--(Swiper Slider JS)
+- html
+- css
+- (Bootstrap)
+- js 
+- (JQuery)
+- (Fancybox)
+- (Swiper Slider JS)
